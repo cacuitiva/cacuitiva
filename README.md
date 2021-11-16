@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/cacuitiva/" target="blank" style="margin: 0 20px;">
-      <img align="center" src="https://simpleicons.org/icons/linkedin.svg" color="#0A66C2" alt="Linkedin - Camilo Cuitiva" height="28px" width="28px" />
+      [#0A66C2]<img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="Linkedin - Camilo Cuitiva" height="28px" width="28px" />
     </a>
     <a href="https://www.freecodecamp.org/espanol/CaCuitiva" target="blank" style="margin: 0 20px;">
       <img align="center" src="https://simpleicons.org/icons/freecodecamp.svg" color="#0A0A23" alt="FreeCodeCamp - Camilo Cuitiva" height="28px" width="28px" />
