@@ -1,13 +1,13 @@
-# <center>¡Hola 👋!</center>
+<h1 align="center">¡Hola 👋!</h1>
 <p align="center">
   <a href="https://www.freepik.com/free-vector/hand-drawn-web-developers_12063795.htm#page=1&query=Web%20developer&position=15&from_view=search" target="blank" style="margin: 0 20px;">
     <img align="center" src="https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" alt="Web_Developer"/>
   </a>
 </p>
 
-## <center>Soy Camilo Cuitiva, Front-End Developer 🖥️</center>
+<h2 align="center">Soy Camilo Cuitiva, Front-End Developer 🖥️</h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/cacuitiva/" target="blank" style="margin: 0 20px;">
+    <a href="https://www.linkedin.com/in/cacuitiva/" target="blank" margin=" 0 20px">
       <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="Linkedin - Camilo Cuitiva" height="28px" width="28px" />
     </a>
     <a href="https://www.freecodecamp.org/espanol/CaCuitiva" target="blank" style="margin: 0 20px;">
