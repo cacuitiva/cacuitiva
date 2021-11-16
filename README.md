@@ -3,19 +3,19 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/cacuitiva/" target="blank" style="margin: 0 20px;">
-      <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="Linkedin - Camilo Cuitiva" height="28px" width="28px" />
+      <img align="center" src="https://simpleicons.org/icons/linkedin.svg" color="#0A66C2" alt="Linkedin - Camilo Cuitiva" height="28px" width="28px" />
     </a>
     <a href="https://www.freecodecamp.org/espanol/CaCuitiva" target="blank" style="margin: 0 20px;">
-      <img align="center" src="https://simpleicons.org/icons/freeCodeCamp.svg" alt="FreeCodeCamp - Camilo Cuitiva" height="28px" width="28px" />
+      <img align="center" src="https://simpleicons.org/icons/freecodecamp.svg" color="#0A0A23" alt="FreeCodeCamp - Camilo Cuitiva" height="28px" width="28px" />
     </a>
     <a href="https://twitter.com/AndresPNK" target="blank" style="margin: 0 20px;">
-      <img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="Twitch - Eduardo Fierro Pro" height="28px" width="28px" />
+      <img align="center" src="https://simpleicons.org/icons/twitter.svg" color="#1DA1F2" alt="Twitch - Eduardo Fierro Pro" height="28px" width="28px" />
     </a>
     <a href="https://www.facebook.com/Camilo.Cuitiva/" target="blank" style="margin: 0 20px;">
-      <img align="center" src="https://simpleicons.org/icons/facebook.svg" alt="Facebook - Camilo Cuitiva" height="28px" width="28px" />
+      <img align="center" src="https://simpleicons.org/icons/facebook.svg" color="#1877F2" alt="Facebook - Camilo Cuitiva" height="28px" width="28px" />
     </a>
     <a href="https://www.instagram.com/andrespnk/" target=""blank" style="margin: 0 20px; >
-      <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="instagram - Camilo Cuitiva" height="28px" width="28px" />
+      <img align="center" src="https://simpleicons.org/icons/instagram.svg" color="#E4405F" alt="instagram - Camilo Cuitiva" height="28px" width="28px" />
     </a>
 </p>
 
