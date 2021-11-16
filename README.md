@@ -1,7 +1,5 @@
-
 <h1 align="center">¡Hola :wave:!</h1>
 <h2 align="center">Soy Camilo Cuitiva, Front-End Developer :computer:</h2>
-
 <p align="center">
     <a href="https://www.linkedin.com/in/cacuitiva/" target="blank" style="margin: 0 20px;">
       <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="Linkedin - Camilo Cuitiva" height="28px" width="28px" />
@@ -25,7 +23,7 @@ Soy un **Desarrollador Front-End** en formación, apasionado por el desarrollo w
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+## :gear: Languajes y Herramientas:
 <p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
