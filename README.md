@@ -5,7 +5,8 @@
   </a>
 </p>
 
-<h2 align="center">Soy Camilo Cuitiva, Front-End Developer 🖥️</h2>
+<h2 align="center">Soy Camilo Cuitiva  🖥️</h2>
+<h2 align="center">Front-End Developer👨‍🎓|UX Designer 👨‍🎓</h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/cacuitiva/" target="blank" style="margin: 0 20px;">
       <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="Linkedin - Camilo Cuitiva" height="28px" width="28px" />
@@ -13,19 +14,19 @@
     <a href="https://www.freecodecamp.org/espanol/CaCuitiva" target="blank" style="margin: 0 20px;">
       <img align="center" src="https://simpleicons.org/icons/freecodecamp.svg" alt="FreeCodeCamp - Camilo Cuitiva" height="28px" width="28px" />
     </a>
-    <a href="https://twitter.com/AndresPNK" target="blank" style="margin: 0 20px;">
+    <a href="https://twitter.com/mundevux" target="blank" style="margin: 0 20px;">
       <img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="Twitch - Eduardo Fierro Pro" height="28px" width="28px" />
     </a>
     <a href="https://www.facebook.com/Camilo.Cuitiva/" target="blank" style="margin: 0 20px;">
       <img align="center" src="https://simpleicons.org/icons/facebook.svg" alt="Facebook - Camilo Cuitiva" height="28px" width="28px" />
     </a>
-    <a href="https://www.instagram.com/andrespnk/" target="blank" style="margin: 0 20px;" >
+    <a href="https://www.instagram.com/mundev.ux/" target="blank" style="margin: 0 20px;" >
       <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="instagram - Camilo Cuitiva" height="28px" width="28px" />
     </a>
 </p>
 
 ## 👉 Sobre mí
-Soy un **Desarrollador Front-End** en formación, apasionado por el desarrollo web y la tecnología, con experencia en el desarrollo de aplicaciones web, diseño de interfaces y diseño de interfaces de usuario. Me gusta aprender sobre nuevas tecnologías y me gusta trabajar en equipo. Me considero una persona responsable, con una gran capacidad de trabajo y una gran capacidad de adaptación.
+Soy un **Desarrollador Front-End** en formación, apasionado por el desarrollo web y la tecnologíaTengo el propósito de crecer profesionalmente para poder crear soluciones funcionales y atractivas de forma colaborativa y de esta manera poder aportar a la mejora continua de la experiencia del usuario. Me gusta aprender sobre nuevas tecnologías y me gusta trabajar en equipo. Me considero una persona responsable, con una gran capacidad de trabajo y una gran capacidad de adaptación.
 
 
 
