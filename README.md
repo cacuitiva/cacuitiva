@@ -7,7 +7,7 @@
 
 <h2 align="center">Soy Camilo Cuitiva, Front-End Developer 🖥️</h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/cacuitiva/" target="blank" margin=" 0 20px">
+    <a href="https://www.linkedin.com/in/cacuitiva/" target="blank" style="margin: 0 20px;">
       <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="Linkedin - Camilo Cuitiva" height="28px" width="28px" />
     </a>
     <a href="https://www.freecodecamp.org/espanol/CaCuitiva" target="blank" style="margin: 0 20px;">
@@ -19,7 +19,7 @@
     <a href="https://www.facebook.com/Camilo.Cuitiva/" target="blank" style="margin: 0 20px;">
       <img align="center" src="https://simpleicons.org/icons/facebook.svg" alt="Facebook - Camilo Cuitiva" height="28px" width="28px" />
     </a>
-    <a href="https://www.instagram.com/andrespnk/" target=""blank" style="margin: 0 20px; >
+    <a href="https://www.instagram.com/andrespnk/" target="blank" style="margin: 0 20px;" >
       <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="instagram - Camilo Cuitiva" height="28px" width="28px" />
     </a>
 </p>
